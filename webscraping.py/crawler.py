@@ -23,8 +23,8 @@ driver.get(url)
 usuario = driver.find_element_by_xpath("//*[@id='UserLogin']")
 pswrd = driver.find_element_by_xpath("//*[@id='UserPassword2']")
 # TODO -- Criar função para pegar o login atravéz da interface
-usuario.send_keys("")
-pswrd.send_keys("")
+usuario.send_keys("variavel")
+pswrd.send_keys("variavel")
 driver.find_element_by_xpath("/html/body/section/div[2]/form/button").click()  # Login Button Interaction
 
 # adicionar protudo
