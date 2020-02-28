@@ -13,7 +13,7 @@ from selenium.webdriver.firefox.options import Options
 # while i < n_of_prod:
 
 
-url = "https://synsuite.cleannet.com.br/materials/operational_dashboard#maintenance-objects"
+url = ""
 options = Options()
 options.headless = True
 driver = webdriver.Firefox(executable_path = "/Users/emers/Desktop/crawler_project/geckodriver")
