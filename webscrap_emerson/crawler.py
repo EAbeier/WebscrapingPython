@@ -100,7 +100,6 @@ class CrawlerProject(telainicial):
                 confir = True
             else:
                 telainicial.tela.MacErrada()
-                macaddress = telainicial.tela.Mac()
 
         # APENAS DESCOMENTAR LINHA DEPOIS DE CRIAR INTERFACE GRAFICA
         # driver.find_element_by_xpath("/html/body/div[4]/div[3]/div/button[1]/span")
