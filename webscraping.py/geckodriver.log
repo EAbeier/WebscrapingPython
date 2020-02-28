@@ -1,0 +1,50 @@
+1582036842217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\noc03\\AppData\\Local\\Temp\\rust_mozprofileiHXiYW"
+1582036852027	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582036852412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582036852412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582036852433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582036852433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582036892958	Marionette	INFO	Listening on port 64618
+1582036893488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582036927326	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036927590	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036927590	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036927860	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036935397	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036935660	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036935661	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036935915	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036939496	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036939763	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036939764	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582036940018	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1582037013423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+send@https://synsuite.cleannet.com.br/js/plugins.min.js:4:5757
+ajax@https://synsuite.cleannet.com.br/js/plugins.min.js:4:2904
+@https://synsuite.cleannet.com.br/js/plugins.min.js line 2 > eval:1:8835
+check@https://synsuite.cleannet.com.br/js/jquery.validate.js:492:47
+element@https://synsuite.cleannet.com.br/js/jquery.validate.js:340:22
+onfocusout@https://synsuite.cleannet.com.br/js/jquery.validate.js:225:10
+delegate@https://synsuite.cleannet.com.br/js/jquery.validate.js:305:68
+validateDelegate/<@https://synsuite.cleannet.com.br/js/jquery.validate.js:1170:21
+dispatch@https://synsuite.cleannet.com.br/js/plugins.min.js:2:25319
+i@https://synsuite.cleannet.com.br/js/plugins.min.js:2:21332
+trigger@https://synsuite.cleannet.com.br/js/plugins.min.js:2:24012
+simulate@https://synsuite.cleannet.com.br/js/plugins.min.js:2:27073
+e@https://synsuite.cleannet.com.br/js/plugins.min.js:2:30037
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:199:14
+webdriverClickElement@chrome://marionette/content/interaction.js:183:11
