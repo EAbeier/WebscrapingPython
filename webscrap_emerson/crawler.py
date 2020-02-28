@@ -20,7 +20,7 @@ class CrawlerProject(telainicial):
     value = telainicial.tela.values['value']
     count = 0
 
-    url = "https://synsuite.cleannet.com.br/materials/operational_dashboard#maintenance-objects"
+    url = "removido por segurança"
     options = Options()
     options.headless = True
     driver = webdriver.Firefox(executable_path="/Users/noc03/PycharmProjects/crawler_project/geckodriver")
